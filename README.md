@@ -1,8 +1,6 @@
-# AWS CLI Deep Dive
+# AWS CLI Deep Dive ([Link to Slides](https://slides.com/gowiem/awscli-deepdive))
 
 This repo is an accompaniment to a talk I'm giving/gave on December 2nd, 2020. It includes the demo-magic command scripts I ran, links to tools I discussed, and some of the shell tips + tricks that I've shared through out the talk.
-
-## [Link to Slides](https://slides.com/gowiem/awscli-deepdive)
 
 ## Talk Abstract
 

@@ -1,0 +1,15 @@
+# NOTE: These values are stored in my personal `~/.aws/config` file - This is only for an example.
+[profile skywalker]
+cli_history=enabled
+output=json
+region=us-west-2
+
+[profile kenobi]
+cli_history=enabled
+output=text
+region=us-east-1
+
+[profile finn] # FN-2187, Not Mertens
+output=json
+region=us-east-1
+credential_process=aws-vault exec finn --json

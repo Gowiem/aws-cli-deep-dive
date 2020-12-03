@@ -15,5 +15,5 @@ region=us-east-1
 
 [profile finn] # FN-2187, Not Mertens
 output=json
-region=us-east-1
+region=us-west-2
 credential_process=aws-vault exec finn --json
